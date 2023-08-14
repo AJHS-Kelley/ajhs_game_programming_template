@@ -1,0 +1,13 @@
+If you are in GAME AND SIMULATION PROGRAMMING (3A, 8B) DELETE the multiUserGameProgramming\ folder.
+
+If you are in MULTI-USER GAME AND SIMULATION PROGRAMMING (4A) DELETE the gameProgramming\ folder. 
+
+If you are in BOTH classes, keep both folders. 
+
+Delete this file after deleting the correct folder. 
+
+Commit those changes to GitHub. 
+
+
+
+
